@@ -1,10 +1,27 @@
-- 👋 Hi, I’m @Javian2
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Hi there :wave:, I'm Javier Alted
 
-<!---
-Javian2/Javian2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+## Sobre mí 
+
+- I'm Software Engineer from Spain. Passionate about Javascript, Typescript, Angular and Ionic. 
+- Actualmente estoy trabajando desde hace más de dos años como Frontend and Mobile Engineer.
+- Me gusta dedicar tiempo al UX / UI de mis proyectos además de a realizar documentaciones sobre estos. 
+- Siempre interesado en ampliar mis conocimientos, tanto de nuevas tecnologías como aquellas con las que trabajo. 
+- Ahora mismo, estoy aprendiendo React, Next y perfeccionando mis conocimientos en NodeJS. 
+- Interesado en aprender Docker y Kubernetes. 
+
+## Languages and tools
+
+- Angular
+- Javascript
+- Typescript
+- Ionic
+- Sass
+- NodeJS
+- Figma
+
+## Connect
+
+
+
