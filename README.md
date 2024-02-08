@@ -4,12 +4,11 @@
 
 ## About me
 
-- :computer: I'm Software Engineer from Spain. Passionate about Javascript, Typescript, Angular and Ionic. 
-- :office: I'm currently working since more than two years as Frontend and Mobile Engineer.
-- :page_with_curl: I like to spend time on the UX / UI of my projects as well as documenting them. 
+- :computer: I'm Software Engineer from Spain. Passionate about Javascript, Typescript, Angular and RxJS. 
+- :office: I'm currently working since more than 3 years as Frontend Angular Engineer. 
 - :blue_book: Always interested in expanding my knowledge, both of new technologies and those I work with. 
 - :rocket: Right now, I'm learning React, Next and perfecting my NodeJS skills. 
-- :triangular_flag_on_post: Interested in learning Docker and Kubernetes. 
+- :triangular_flag_on_post: Interested in learning Astro and Qwik 
 
 ## Languages and tools
 
