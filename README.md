@@ -5,7 +5,7 @@
 ## About me
 
 - :computer: I'm Software Engineer from Spain. Passionate about Javascript, Typescript, Angular and RxJS. 
-- :office: I'm currently working since more than 3 years as Frontend Angular Engineer. 
+- :office: I'm currently working since more than 4 years as Frontend Angular Engineer. 
 - :blue_book: Always interested in expanding my knowledge, both of new technologies and those I work with. 
 - :rocket: Right now, I'm learning React, Next and perfecting my NodeJS skills. 
 - :triangular_flag_on_post: Interested in learning Astro and Qwik 
